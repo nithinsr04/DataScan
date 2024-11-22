@@ -1,0 +1,30 @@
+.home-img-wrapper{
+    padding: 16px;
+    background-color: white;
+}
+
+.container{
+    margin-top: 4rem;
+    margin-left: 10rem;
+    margin-right: 10rem; 
+    width: 100%; 
+    max-width: 100%; 
+    display: flex;
+    gap: 10rem;
+}
+
+
+
+.img-description h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: gray 500;
+}
+
+.img-description h2{
+    text-align: right;
+  color: #1a202c; 
+  font-size: 1.5rem; 
+  font-weight: 700; 
+}
