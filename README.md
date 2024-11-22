@@ -108,6 +108,7 @@ npm run dev
 ---
 
 ## Project Structure
+```bash
 project_name/
 ├── backend
 │       ├── config/
@@ -128,6 +129,7 @@ project_name/
 │   
 ├── diagrams/                                     
 └── README.md 
+```
 
 ---
 
