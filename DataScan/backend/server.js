@@ -17,7 +17,7 @@ app.use(cors());
 
 //checking working of server
 app.get('/',(req,res)=>{
-    res.send('Hello World');
+    res.send('Hello from DataScan Backend');
 })
 
 
